@@ -9,3 +9,5 @@ Assignment week 2:
 [Assingment week 6 ](https://github.com/tomurbaschek/assignments/blob/master/assignment4.ipynb)
 
 [Assignment week 8](https://github.com/tomurbaschek/assignments/blob/master/assignment5.ipynb)
+
+[final python assignment](https://github.com/tomurbaschek/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
